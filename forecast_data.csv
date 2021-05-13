@@ -1,0 +1,25 @@
+Name,Date,time,Maximum_Temperature,Minimum_Temperature,Temperature,Wind_Speed,Wind_Direction,Cloud_Cover,Relative_Humidity,Conditions
+"Pune, MH, India",feb 17 2021 ,06:30:00,87.3,85,86.3,2.6,29.2,10.3,22.3,Clear
+"Pune, MH, India",feb 17 2021 ,18:30:00,80.5,66.8,70,4.1,52.9,45.8,56,Partially cloudy
+"Pune, MH, India",feb 18 2021 ,06:30:00,87.7,66.6,77.7,9.9,49.3,69.1,35.8,Partially cloudy
+"Pune, MH, India",feb 18 2021 ,18:30:00,73.1,67.2,70.4,7.5,62.9,93.7,49.2,Overcast
+"Pune, MH, India",feb 19 2021 ,06:30:00,84.3,64.3,76.2,10.8,71.3,76.1,43.4,Overcast
+"Pune, MH, India",feb 19 2021 ,18:30:00,77.8,67.7,69.6,5,69.4,34.1,50.4,Partially cloudy
+"Pune, MH, India",feb 20 2021 ,06:30:00,85.2,66.6,78.7,7.8,77.2,58,31.4,Partially cloudy
+"Pune, MH, India",feb 20 2021 ,18:30:00,78.3,66.1,70.5,2.9,59,13.3,38.1,Clear
+"Pune, MH, India",feb 21 2021 ,06:30:00,88.1,66.5,81.2,7,74.4,8.3,25.4,Clear
+"Pune, MH, India",feb 21 2021 ,18:30:00,82.1,67.2,72.2,2.6,56.3,7.2,33.2,Clear
+"Pune, MH, India",feb 22 2021 ,06:30:00,89.7,69.3,82.6,4.7,66.2,7.3,22.8,Clear
+"Pune, MH, India",feb 22 2021 ,18:30:00,84.6,69.2,74.2,3.3,59.6,0,28.8,Clear
+"Pune, MH, India",feb 23 2021,06:30:00,91.1,71.6,84.6,4.9,68.5,0,19.9,Clear
+"Pune, MH, India",feb 23 2021 ,18:30:00,87.2,69.9,75.8,1.9,64.3,0,26.4,Clear
+"Pune, MH, India",feb 24  2021,06:30:00,94.2,72.1,86.1,3.3,54.6,0,18.1,Clear
+"Pune, MH, India",feb 24 2021 ,18:30:00,87.3,69.3,75.1,3.8,82.1,0,29.4,Clear
+"Pune, MH, India",feb 25 2021 ,06:30:00,93.6,71.4,84.9,7.7,51.7,0,20.4,Clear
+"Pune, MH, India",feb 25 2021 ,18:30:00,84.5,67.4,73.2,6.4,69.5,0,33.4,Clear
+"Pune, MH, India",feb 26 2021 ,06:30:00,90.4,69.5,83,9.4,45.6,0,23.4,Clear
+"Pune, MH, India",feb 26 2021 ,18:30:00,81.9,63.6,70.2,5,72.6,0,32,Clear
+"Pune, MH, India",feb 27 2021 ,06:30:00,92.2,65.8,81.8,3.7,54.9,0,18.7,Clear
+"Pune, MH, India",feb 27 2021,18:30:00,85.7,68.4,73.7,2.6,45.3,0,26.3,Clear
+"Pune, MH, India",feb 28 2021,06:30:00,93.6,71.4,86.3,5.2,69.4,0,14.4,Clear
+"Pune, MH, India",feb 28 2021 ,18:30:00,87.4,69.2,74.8,3.5,74,0,25.8,Clear
